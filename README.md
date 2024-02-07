@@ -13,7 +13,7 @@ Welcome to My To-Do List App! This simple mobile application helps you manage yo
 
 Check out this short demo video to see the app in action:
 
-[![To-Do List App Demo](/assets/to do.jpg)](/assets/to do app.mov)
+[![To-Do List App Demo](/assets/to-do.jpg)](/assets/to-do-app.mov)
 
 
 ## Getting Started
@@ -21,7 +21,7 @@ Check out this short demo video to see the app in action:
 To get started with My To-Do List App:
 
 1. Clone the repository: `git clone https://github.com/JannatBiva/To-Do-List.git`
-2. Navigate to the project directory: `cd to-do-list-app`
+2. Navigate to the project directory: `cd To-Do-List`
 3. Install dependencies: `npm install`
 4. Run the app: `npm start`
 
