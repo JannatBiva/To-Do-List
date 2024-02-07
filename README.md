@@ -31,6 +31,3 @@ To get started with My To-Do List App:
 
 I welcome any feedback or contributions to improve this app. If you encounter any issues or have ideas for improvement, please open an issue or submit a pull request on GitHub.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
