@@ -13,6 +13,7 @@ Welcome to My To-Do List App! This simple mobile application helps you manage yo
 
 Check out this short demo video to see the app in action:
 [![To-Do List App Demo](assets/to%20do.jpg)](assets/to%20do%20app.mp4)
+<img src="assets/to%20do.jpg" alt="To-Do List App Demo" width="200" height= "400">
 
 
 ## Getting Started
