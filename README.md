@@ -13,7 +13,10 @@ Welcome to My To-Do List App! This simple mobile application helps you manage yo
 
 Check out this short demo video to see the app in action:
 
-[![To-Do List App Demo](/assets/to%20do%20.jpg)](/assets/to%20do%20app.mov)
+<video width="320" height="240" controls>
+  <source src="/assets/to do app.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Getting Started
